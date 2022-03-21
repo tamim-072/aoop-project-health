@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                org.openjfx.javafxmavenarchetypes/org.openjfx.javafxmavenarchetypes.HelloApplication
+                                org.openjfx.javafxmavenarchetypes/org.openjfx.javafxmavenarchetypes.MainApp
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
